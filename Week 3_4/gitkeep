@@ -1,0 +1,24 @@
+These two weeks we are going to be focused on line charts and step charts and using various tools to create these visualizations. Since the course is structured in 2-week blocks, every 2 weeks are going to be focused on a different visualization type that you create in various tools. This is to get you familiar with the pros/cons of Python, R, Tableau, and PowerBI – all tools you are going to run into in the real world, but that all have their own set of pros/cons. The book will cover one way to create a visualization, but we all know we have many tools at our disposal, so throughout these exercises you will be challenged to learn a variety of ways. Follow the recommendations and suggestions from your book on the design, and use videos and other sources to find various ways to build the same visualizations.
+
+Sample Datasets can be found here for everything I am going to ask you to do – but you don’t have to use this data, you can use whatever data you want if you want to try learning on something else.
+
+Sample Datasets (click on the Downloads tab.)
+
+You may also download them directly from this link:
+
+Exercise 2.2 Datasets (click the link to download a folder containing the datasets.)
+
+You need to submit 3 line charts and 3 step charts using Tableau or PowerBI, Python and R using the data below (or your own datasets). You can also submit using D3, though not required. You can choose which library to use in Python or R, documentation is provided to help you decide and as you start to play around in the libraries, you will decide which you prefer.
+
+R
+Line Plots in R. Plotly. (2018).
+Using geom_step. R-Bloggers. (2016).
+How to Plot a Stair Steps Function with ggplot. Stack Exchange. (2011).
+Python
+ggplot. yhat. (2012).
+Emphasizing continuity with line plots. Seaborn. (2018).
+Simple Plot. Matplotlib. (2012).
+matplotlib.pyplot.step. Matplotlib. (2012).
+Step Functions in Matplotlib. Matplotlib. (2014).
+D3
+Learn to Create a Line Chart Using D3.js. FreeCodeCamp. (2018).
